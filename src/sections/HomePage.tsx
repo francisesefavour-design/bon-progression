@@ -104,7 +104,7 @@ export function HomePage({ onViewChange }: HomePageProps) {
 
           <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10">
             The ultimate platform for traders. Access premium scripts, join exclusive communities, 
-            and elevate your trading journey with cutting-edge tools.
+            and elevate your Hacking journey with cutting-edge tools.
           </p>
 
           {/* CTA Buttons - Fully Clickable */}
@@ -144,7 +144,7 @@ export function HomePage({ onViewChange }: HomePageProps) {
               <div className="text-sm text-muted-foreground">Groups</div>
             </div>
             <div className="glass-card p-4">
-              <div className="text-2xl md:text-3xl font-bold neon-text">95%</div>
+              <div className="text-2xl md:text-3xl font-bold neon-text">65%</div>
               <div className="text-sm text-muted-foreground">Success</div>
             </div>
           </div>
@@ -163,7 +163,7 @@ export function HomePage({ onViewChange }: HomePageProps) {
             Why Choose <span className="neon-text">Progression</span>?
           </h2>
           <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-            Everything you need to succeed in the trading world
+            Everything you need to succeed in the cracking world
           </p>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -241,7 +241,7 @@ export function HomePage({ onViewChange }: HomePageProps) {
             What Our <span className="neon-text">Members Say</span>
           </h2>
           <p className="text-muted-foreground text-center max-w-2xl mx-auto mb-12">
-            Real testimonials from real traders who transformed their journey with Progression
+            Real testimonials from real hackers who transformed their journey with Progression
           </p>
 
           {/* Testimonials Carousel */}
