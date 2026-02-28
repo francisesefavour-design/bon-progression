@@ -36,8 +36,8 @@ export function AboutPage() {
   const teamMembers: TeamMember[] = [
     { name: 'BON JAC', role: 'CEO & Founder', highlight: true },
     { name: 'selerito', role: 'Sub-Admin' },
-    { name: 'lawrence_daniel', role: 'Community Manager' },
-    { name: 'jenkins_arthur', role: 'Signal Analyst' },
+    { name: 'praise', role: 'Community Manager' },
+    { name: 'praise', role: 'Signal Analyst' },
   ];
 
   const activeMembers = [
@@ -113,8 +113,8 @@ export function AboutPage() {
             
             <h2 className="text-3xl font-bold text-white mb-6 text-center">Our Mission</h2>
             <p className="text-lg text-muted-foreground text-center leading-relaxed">
-              Progression was founded with a singular vision: to democratize access to advanced trading 
-              tools and knowledge. Under BON JAC's leadership, we've built a community where traders 
+              Progression was founded with a singular vision: to democratize access to advanced Hacking
+              tools and knowledge. Under BON JAC's leadership, we've built a community where hacking
               of all levels can access premium scripts, real-time signals, and expert guidance to 
               achieve financial freedom.
             </p>
@@ -246,7 +246,7 @@ export function AboutPage() {
           </h2>
 
           <div className="grid sm:grid-cols-2 gap-4">
-            {['brown_rogers', 'c208_user'].map((name) => (
+            {['Selerinto', 'Amos'].map((name) => (
               <div key={name} className="glass-card p-4 flex items-center gap-4">
                 <div className="w-12 h-12 rounded-lg bg-gradient-to-br from-neon-purple/20 to-neon-pink/20 flex items-center justify-center">
                   <Star className="w-6 h-6 text-neon-purple" />
@@ -268,7 +268,7 @@ export function AboutPage() {
             <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-neon-pink to-neon-purple" />
             <h2 className="text-2xl font-bold text-white mb-4">Join the Progression Family</h2>
             <p className="text-muted-foreground mb-6">
-              Be part of a community that's shaping the future of trading.
+              Be part of a community that's shaping the future.
             </p>
             <div className="flex justify-center gap-4">
               <div className="glass-card px-6 py-3">
@@ -287,7 +287,7 @@ export function AboutPage() {
             © 2024 Progression Information. All rights reserved.
           </p>
           <p className="text-xs text-muted-foreground mt-2">
-            Founded by BON JAC with passion for trading excellence.
+            Founded by BON JAC with passion for Hacking excellence.
           </p>
         </div>
       </footer>
