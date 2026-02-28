@@ -35,21 +35,21 @@ export function AboutPage() {
 
   const teamMembers: TeamMember[] = [
     { name: 'BON JAC', role: 'CEO & Founder', highlight: true },
-    { name: 'pepeli_admin', role: 'Sub-Admin' },
+    { name: 'selerito', role: 'Sub-Admin' },
     { name: 'lawrence_daniel', role: 'Community Manager' },
     { name: 'jenkins_arthur', role: 'Signal Analyst' },
   ];
 
   const activeMembers = [
-    { name: 'obiebi_fab', activity: '95% participation' },
-    { name: 'amaka_yoyo', activity: '78% participation' },
-    { name: 'godstime_best', activity: '68% participation' },
-    { name: 'perebo_sigha', activity: '60% participation' },
+    { name: 'selerinto', activity: '96% participation' },
+    { name: 'progress', activity: '78% participation' },
+    { name: 'biggest_franky', activity: '68% participation' },
+    { name: 'precious', activity: '60% participation' },
   ];
 
   const achievements = [
     { icon: Target, label: '10+ Active Members', value: 'Growing Daily' },
-    { icon: TrendingUp, label: 'Success Rate', value: '95% Accuracy' },
+    { icon: TrendingUp, label: 'Success Rate', value: '65% Accuracy' },
     { icon: Zap, label: 'Scripts Delivered', value: '50+ Updates' },
     { icon: Shield, label: 'Communities', value: '3 Groups' },
   ];
